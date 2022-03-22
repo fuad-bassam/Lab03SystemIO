@@ -20,6 +20,8 @@ Challenge9|[Split String ](#challenge-9-split-string)
 
 ## Challenge 1: multiplied three number
 this code ask user to input 3 number in `one Line` and return the multiply for this three number
+
+
 ![ing](./image/Chalenge1.png)
 ![img](./image/Challenge_1.PNG)
 
@@ -27,18 +29,23 @@ this code ask user to input 3 number in `one Line` and return the multiply for t
 ## Challenge 2: Average three number
 this code asks user to input numbers between 2-10 and get out a `random numbers` by number user input and get the average of this random number and return the result.
  
+
 ![img](./image/Challenge_2.PNG)
 
 
 ## Challenge 3: Print Stars
 Print on console rhombus shape stars. 
+
+
 ![img](./image/Challenge_3.PNG)
 
 ## Challenge4 : Most frequent Number 
 return **the most appears** number of given array of interger
 
 Example array:  
-in this array `{ 1, 5, 1, 3, 6, 7, 7, 5, 7, 3 ,90,5,5,5,5,5,5,8,9,12,34}`  
+in this array `{ 1, 5, 1, 3, 6, 7, 7, 5, 7, 3 ,90,5,5,5,5,5,5,8,9,12,34}` 
+
+ 
 ![img](./image/Challenge_4.PNG)
 
 
@@ -48,6 +55,8 @@ return **Max number** of given array of interger
 
 Example array:  
 in this array `{ 1, 5, 1, 3, 6, 7, 7, 5, 7, 3 ,90,5,5,5,5,5,5,8,9,12,34}`  
+
+
 ![img](./image/Challenge_5.PNG)
 
 
@@ -55,21 +64,28 @@ in this array `{ 1, 5, 1, 3, 6, 7, 7, 5, 7, 3 ,90,5,5,5,5,5,5,8,9,12,34}`
 ## Challenge 6: Write on file 
 Write **input user** on file store on the same project path 
 
+
 ![img](./image/Challenge_6.PNG)
 
 
 ## Challenge 7: Read from File
 Read the Contents from **same File** that we [store before](#challenge-6-write-on-file).
+
+
 ![img](./image/Challenge_7.PNG)
 
 
 
 ## Challenge 8: Edit File
 edit the spasific line content from **same File** that we [store before](#challenge-6-write-on-file).
+
+
 ![img](./image/Challenge_8.PNG)
  
 
 
 ## Challenge 9: Split String 
 Split String for an array that content word and how many characters in the word
+
+
 ![img](./image/Challenge_9.PNG)
