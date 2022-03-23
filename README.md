@@ -22,7 +22,7 @@ Challenge9|[Split String ](#challenge-9-split-string)
 this code ask user to input 3 number in `one Line` and return the multiply for this three number
 
 
-![ing](./image/Chalenge1.png)
+![img](./image/Chalenge1_1.png)
 ![img](./image/Challenge_1.PNG)
 
 
